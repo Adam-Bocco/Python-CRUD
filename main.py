@@ -331,3 +331,7 @@ logolabel.place(x=615,y=40,width=390,height=500)
 Col1()
 Col()
 root.mainloop()
+""" The End of the program """
+""" The End of the program """
+""" The End of the program """
+""" The End of the program """
